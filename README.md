@@ -2,6 +2,7 @@
 A site for displaying random quote.
 
 Features : 
+  - Button to get new random quote
   - Button to copy quote to clipboard
   - Button to share quote on twitter
 
